@@ -1,0 +1,22 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The xkcd effect and publishing  
+
+https://xkcd.com/2456/
+
+https://www.theatlantic.com/science/archive/2021/05/xkcd-science-paper-meme-nails-academic-publishing/618810/
+
+https://observablehq.com/@chrisarchitect/xkcd-types-of-academic-papers-generator
+
+https://www.nature.com/subjects/community-ecology
+
+https://michaelkaspari.org/2015/09/20/10-foundational-papers-in-community-ecology/
+
+https://twitter.com/lars_brudvig/status/1387944806228316161
